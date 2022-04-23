@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/three.js-learn/static/js/main.272dad7d.js",
+    "static/js/377.ac90231e.chunk.js": "/three.js-learn/static/js/377.ac90231e.chunk.js",
+    "index.html": "/three.js-learn/index.html",
+    "main.272dad7d.js.map": "/three.js-learn/static/js/main.272dad7d.js.map",
+    "377.ac90231e.chunk.js.map": "/three.js-learn/static/js/377.ac90231e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.272dad7d.js"
+  ]
+}
